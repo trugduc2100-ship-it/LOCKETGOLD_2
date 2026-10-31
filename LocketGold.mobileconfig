@@ -24,7 +24,7 @@
     <integer>1</integer>
 
     <key>PayloadOrganization</key>
-    <string>Duy Vinh</string>
+    <string>HA TRUNG DUC</string>
 
     <key>PayloadContent</key>
     <array>
@@ -50,7 +50,7 @@
                 <string>HTTPS</string>
 
                 <key>ServerURL</key>
-                <string>https://my.ublockdns.com/mr188zx4</string>
+                <string>https://my.ublockdns.com/z451ak95</string>
             </dict>
 
             <key>OnDemandRules</key>
