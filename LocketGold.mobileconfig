@@ -13,7 +13,6 @@
 
     <key>PayloadScope</key>
     <string>System</string>
-
     <key>PayloadType</key>
     <string>Configuration</string>
 
@@ -24,7 +23,7 @@
     <integer>1</integer>
 
     <key>PayloadOrganization</key>
-    <string>Hà Trung Đức</string>
+    <string>Duy Vinh</string>
 
     <key>PayloadContent</key>
     <array>
@@ -34,7 +33,6 @@
 
             <key>PayloadVersion</key>
             <integer>1</integer>
-
             <key>PayloadIdentifier</key>
             <string>vip.trugduc210.profile.dnsSettings</string>
 
@@ -48,9 +46,8 @@
             <dict>
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
-
                 <key>ServerURL</key>
-                <string>https://my.ublockdns.com/z451ak95</string>
+                <string>https://my.ublockdns.com/mr188zx4</string>
             </dict>
 
             <key>OnDemandRules</key>
